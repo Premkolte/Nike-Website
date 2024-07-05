@@ -1,9 +1,22 @@
-# React + Vite
+### Nike Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**PROJECT NAME --- Nike Website**          
+**visit URL for live demo :-** https://nike-website-pink.vercel.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Nike-Website
+### Setup
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Premkolte/Nike-Website
+   ```
+2. Go to the project folder
+   ```sh
+   cd Nike-Website
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Run development server
+   ```sh
+   npm run dev
+   ```
